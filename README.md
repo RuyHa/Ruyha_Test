@@ -3,3 +3,4 @@
 # ㅋㅋㅋㅋㅋ 
 # 홍자 들립니다
 # coin test
+# segmentation fault (core dumped)
